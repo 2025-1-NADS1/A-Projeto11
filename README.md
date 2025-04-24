@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## PROJETO 11
 
-## Integrantes: <a href="https://github.com/androide147">Andre</a>, <a href="https://github.com/Wkarus">Icaro</a>, <a href="https://github.com/GregoryBaruc">Gregory</a>, <a href="https://github.com/fenuness">Felipe</a>
+## Integrantes: <a href="https://github.com/androide147">Andre</a>, <a href="https://github.com/Wkarus">Icaro Souza</a>, <a href="https://github.com/GregoryBaruc">Gregory Baruc</a>, <a href="https://github.com/fenuness">Felipe</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
