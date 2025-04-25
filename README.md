@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # REPO
 
-## PROJETO 11
+## AFIG
 
 ## Integrantes: <a href="https://github.com/androide147">Andre de Sousa Pereira</a>, <a href="https://github.com/Wkarus">Icaro Birochi  Souza</a>, <a href="https://github.com/GregoryBaruc">Gregory Baruc Braulino Santos</a>, <a href="https://github.com/fenuness">Felipe Nunes de Almeida</a>
 
