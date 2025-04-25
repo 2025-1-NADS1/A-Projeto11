@@ -14,9 +14,9 @@ Vide tutoriais do PI.
 
 ## PROJETO 11
 
-## Integrantes: <a href="https://github.com/androide147">Andre Pereira</a>, <a href="https://github.com/Wkarus">Icaro Souza</a>, <a href="https://github.com/GregoryBaruc">Gregory Baruc</a>, <a href="https://github.com/fenuness">Felipe Nunes</a>
+## Integrantes: <a href="https://github.com/androide147">Andre de Sousa Pereira</a>, <a href="https://github.com/Wkarus">Icaro Birochi  Souza</a>, <a href="https://github.com/GregoryBaruc">Gregory Baruc Braulino Santos</a>, <a href="https://github.com/fenuness">Felipe Nunes de Almeida</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Me. Aimar</a>, <a href="https://www.linkedin.com/in/lucymari/"> Lucy<a/>, <a href"https://www.linkedin.com/in/remuniz/"> Renata<a/>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/"> Ronaldo<a/>, <a href"https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/"> Eduardo<a/> 
 
 ## Descrição
 
