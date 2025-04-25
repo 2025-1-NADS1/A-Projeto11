@@ -17,7 +17,7 @@
 ### Redes de Computadores
 
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201)</b>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/REDE_E_COMPUTADORES)</b>
 <br><br>
 
 ### Algoritmos e Lógica de Programação
