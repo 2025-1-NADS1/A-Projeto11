@@ -24,7 +24,7 @@ namespace EXEMPLO_02_SERVER
 
                     NetworkStream stream = cliente.GetStream();
                     byte[] buffer = new byte[cliente.ReceiveBufferSize];
-                    
+
                     // Lê a mensagem do cliente
                     int bytesLidos = stream.Read(buffer, 0, buffer.Length);
                     string mensagemRecebida = Encoding.UTF8.GetString(buffer, 0, bytesLidos);

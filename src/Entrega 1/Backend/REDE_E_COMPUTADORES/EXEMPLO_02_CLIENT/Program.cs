@@ -27,7 +27,7 @@ namespace EXEMPLO_02_CLIENT
                     String msg = "Mensagem de teste TCP";
                     Byte[] dados = Encoding.UTF8.GetBytes(msg);
                     NetworkStream stream = client.GetStream();
-                    
+
                     Console.WriteLine($"Enviando mensagem: {msg}");
                     stream.Write(dados, 0, dados.Length);
 
@@ -42,7 +42,7 @@ namespace EXEMPLO_02_CLIENT
                         {
                             int bytesLidos = stream.Read(dadosLidos, 0, dadosLidos.Length);
                             resposta += Encoding.UTF8.GetString(dadosLidos, 0, bytesLidos);
-                            
+
                             if (!stream.DataAvailable)
                                 break;
                         }
