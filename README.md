@@ -19,6 +19,7 @@ Vide tutoriais do PI.
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/aimarlopes/"> Aimar Lopes</a>, <a href="https://www.linkedin.com/in/lucymari/"> Lucy Mari<a/>, <a href="https://www.linkedin.com/in/remuniz/"> Renata Muniz<a/>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/"> Ronaldo Araujo<a/>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/"> Eduardo Savino</a> 
 
 ## Descrição
+<a O projeto tem como objetivo o desenvolvimento de um dashboard interativo para uma casa inteligente, integrando diferentes dispositivos IoT (Internet das Coisas) em uma única interface. O sistema permitirá o monitoramento e controle de elementos como iluminação, temperatura, câmeras de segurança, consumo de energia e fechaduras eletrônicas. >
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
