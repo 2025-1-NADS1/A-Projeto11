@@ -5,19 +5,19 @@
 
 ### Matematica Quantitativa
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/AlgoritimosLogicaDePrograma%C3%A7%C3%A3o)</b>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/MatematicaDiscreta)</b>
 <br><br>
 
 ### Fundamentos de Banco de dados
 
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/AlgoritimosLogicaDePrograma%C3%A7%C3%A3o)</b>
+<b>ALUNO 1- [Trabalho/Documento](https://drive.google.com/file/d/1sYttvu-hKryiARgvatGRh9ZKFXzHNjSf/view?usp=drive_link)</b>
 <br><br>
 
 ### Redes de Computadores
 
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/PI_Redes_Comunic)</b>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/REDE_E_COMPUTADORES)</b>
 <br><br>
 
 ### Algoritmos e Lógica de Programação
