@@ -28,7 +28,7 @@ Vide tutoriais do PI.
 
 LINKS:
 BancoDeDados https://drive.google.com/file/d/1ylsBCeByyDJ1zuEZk6erdD9b3XuacPeF/view?usp=drive_link
-
+REDES:https://github.com/2025-1-NADS1/A-Projeto11/tree/main/documentos/Entrega%201/REDE_E_COMPUTADORES
 
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
