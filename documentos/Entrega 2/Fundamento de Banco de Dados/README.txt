@@ -45,4 +45,5 @@ CREATE TABLE dashboard (
     descricao VARCHAR2(100),
     status VARCHAR2(20),
     layout VARCHAR2(20)
-);
+
+
