@@ -76,12 +76,12 @@ namespace FormsCliente
 
         private void cbx_1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // Deixe vazio
+            // Deixei vazio
         }
 
         private void txtResposta_TextChanged(object sender, EventArgs e)
         {
-            // Deixe vazio
+            // Deixei vazio
         }
     }
 }
