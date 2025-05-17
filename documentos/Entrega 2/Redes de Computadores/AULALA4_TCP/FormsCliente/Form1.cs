@@ -11,29 +11,35 @@ namespace FormsCliente
         {
             InitializeComponent();
 
+            // Configura o ComboBox para não permitir digitação manual
             cbx_1.DropDownStyle = ComboBoxStyle.DropDownList;
 
+            // Limpa e adiciona os cômodos no ComboBox
             cbx_1.Items.Clear();
             cbx_1.Items.Add("Selecione...");
             cbx_1.Items.Add("Sala");
             cbx_1.Items.Add("Cozinha");
             cbx_1.Items.Add("Quarto de casal");
             cbx_1.Items.Add("Quarto das crianças");
-            cbx_1.SelectedIndex = 0;
+            cbx_1.SelectedIndex = 0;  // Seleciona o primeiro item por padrão
         }
 
         private void btnEnviar_Click(object sender, EventArgs e)
         {
+            // Obtém o cômodo selecionado pelo usuário
             string comodoSelecionado = cbx_1.SelectedItem?.ToString();
 
+            // Verifica se um cômodo válido foi selecionado
             if (!string.IsNullOrEmpty(comodoSelecionado) && comodoSelecionado != "Selecione...")
             {
+                // Obtém o horário atual formatado
                 string horario = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
 
-                // Informações hardcode para cada cômodo
+                // Variáveis para armazenar o status dos dispositivos
                 string arCondicionado = "";
                 string sensorMovimento = "";
 
+                // Define as informações específicas para cada cômodo
                 switch (comodoSelecionado)
                 {
                     case "Sala":
@@ -58,6 +64,7 @@ namespace FormsCliente
                         break;
                 }
 
+                // Adiciona as informações no campo de resposta
                 txtResposta.Text += $"Conectado - {horario} - {comodoSelecionado}\r\n";
                 txtResposta.Text += $"{arCondicionado}\r\n";
                 txtResposta.Text += $"{sensorMovimento}\r\n";
@@ -65,23 +72,27 @@ namespace FormsCliente
             }
             else
             {
+                // Exibe mensagem de erro se nenhum cômodo foi selecionado
                 MessageBox.Show("Por favor, selecione um cômodo antes de enviar.", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
+            // Limpa o conteúdo da caixa de texto
             txtResposta.Clear();
         }
 
         private void cbx_1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // Deixe vazio
+            // Evento de mudança de seleção no ComboBox
+            // Deixado vazio intencionalmente
         }
 
         private void txtResposta_TextChanged(object sender, EventArgs e)
         {
-            // Deixe vazio
+            // Evento de mudança de texto na caixa de resposta
+            // Deixado vazio intencionalmente
         }
     }
 }
